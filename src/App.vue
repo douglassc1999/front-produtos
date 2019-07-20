@@ -29,7 +29,7 @@
           <tr>
             <th>NOME</th>
             <th>QTD</th>
-            <th>VALOR</th>
+            <th>VALORES</th>
             <th>OPÇÕES</th>
           </tr>
 
